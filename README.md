@@ -1,6 +1,6 @@
 # HackerRank's 10 Days of Statistics <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" width=40px align="right">
 The code in this repository is the solutions of HackerRank's 10 day of statistics challenge problems.
-Link to the [challenge](https://www.hackerrank.com/challenges/s10-basic-statistics).
+Link to the [challenge](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics).
 
 
 
